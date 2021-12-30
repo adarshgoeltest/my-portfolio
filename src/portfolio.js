@@ -11,8 +11,8 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Amirul Islam",
-  title: "Hi all, I'm Amirul",
+  username: "Adarsh Goel",
+  title: "Hi all, I'm Adarsh",
   subTitle: emoji(
     "I am telegram bot Developer 🚀 having an experience of building/modifying website and telegram bots."
   ),
@@ -31,9 +31,9 @@ const socialMediaLinks = {
   facebook: "",
   medium: "",
   stackoverflow: "",
-  twiiter: "https://twitter.com/Adarshgoel05",
+  twitter: "https://twitter.com/Adarshgoel05",
   organization: "https://github.com/codexmania",
-  instagram: "https://intagram/adarsh.goel05
+  instagram: "https://intagram/adarsh.goel05,
   // Instagram and Twitter are also supported in the links!
   display: true // Set true to display this section, defaults to false
 };
