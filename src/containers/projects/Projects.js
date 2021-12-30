@@ -67,7 +67,7 @@ export default function Projects() {
             newTab={true}
           />
           <Button
-            text={"Xcdoershub-Organization"}
+            text={"Follow me at Github ❤️"}
             className="git-org"
             href={socialMediaLinks.organization}
             newTab={true}
