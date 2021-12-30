@@ -14,25 +14,26 @@ const greeting = {
   username: "Amirul Islam",
   title: "Hi all, I'm Amirul",
   subTitle: emoji(
-    "I am telegram bot Developer 🚀 having an experience of building/modifying telegram bot repos."
+    "I am telegram bot Developer 🚀 having an experience of building/modifying website and telegram bots."
   ),
   resumeLink:
-    "https://t.me/XcodersHub",
+    "https://t.me/codexmania",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/AmirulAndalib",
+  github: "https://github.com/code-x-mania",
   linkedin: "",
-  gmail: "amirulandalib@gmail.com",
-  gitlab: "https://gitlab.com/AmirulAndalib",
+  gmail: "contact@itsadarsh.tech",
+  gitlab: "",
   facebook: "",
   medium: "",
-  stackoverflow: "https://stackoverflow.com/users/15605896/amirul-islam",
-  twiiter: "https://twitter.com/AmirulAndalib",
-  organization: "https://github.com/XcodersHub",
+  stackoverflow: "",
+  twiiter: "https://twitter.com/Adarshgoel05",
+  organization: "https://github.com/codexmania",
+  instagram: "https://intagram/adarsh.goel05
   // Instagram and Twitter are also supported in the links!
   display: true // Set true to display this section, defaults to false
 };
@@ -41,10 +42,10 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY Telegram Bot DEVELOPER WHO WANTS TO EXPLORE Telegram Bots,Mod them",
+  subTitle: "Passionate developer who like making cool and interactive bots and website",
   skills: [
     emoji(
-      "⚡ Develop Telegram Bots and Modify them"
+      "⚡ Develop Telegram Bots and Api's"
     ),
     emoji(
       "⚡ Integration of third party services such as Heroku/ AWS / Digital Ocean/Repl.iT"
@@ -117,7 +118,7 @@ const educationInfo = {
   display: false, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Monipur High School and College",
+      schoolName: "Not safe to disclose (in 11th standard)",
       logo: require("./assets/images/harvardLogo.png"),
       subHeader: "Master of Science in Computer Science",
       duration: "September 2017 - April 2019",
@@ -145,7 +146,7 @@ const techStack = {
   experience: [
     {
       Stack: "Telegram Bot Development", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
+      progressPercentage: "86%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Programming",
@@ -153,7 +154,7 @@ const techStack = {
     },
     {
       Stack: "Backend/Fronted Design",
-      progressPercentage: "60%"
+      progressPercentage: "72%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -282,10 +283,10 @@ const blogSection = {
 
   blogs: [
     {
-      url: "https://t.me/XcodersHub",
-      title: "XcodersHub Support Channel",
+      url: "https://t.me/CodeXMania",
+      title: "CodeXMania Support Channel",
       description:
-        "Join XcodersHub telegram Support channel..."
+        "Join CodeXMania telegram Support channel..."
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -333,8 +334,8 @@ const contactInfo = {
 // Twitter Section
 
 const twitterDetails = {
-  userName: "amirulandalib", //Replace "twitter" with your twitter username without @
-  display: false // Set true to display this section, defaults to false
+  userName: "adarshgoel05", //Replace "twitter" with your twitter username without @
+  display: true // Set true to display this section, defaults to false
 };
 
 export {
