@@ -167,7 +167,7 @@ const workExperiences = {
     {
       role: "Student class 11th",
       company: "Currently studying at School",
-      companylogo: require("https://i.ibb.co/t2kdrmP/Download-2.jpg"),
+      companylogo: require("./assets/images/download (2).jpg"),
       date: "November 2009 – Present",
       desc: "Completing education",
     }
