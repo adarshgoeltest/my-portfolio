@@ -33,7 +33,6 @@ const socialMediaLinks = {
   stackoverflow: "",
   twitter: "https://twitter.com/Adarshgoel05",
   organization: "https://github.com/codexmania",
-  Instagram: "https://instagram/adarsh.goel05,
   // Instagram and Twitter are also supported in the links!
   display: true // Set true to display this section, defaults to false
 };
