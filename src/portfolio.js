@@ -162,14 +162,14 @@ const techStack = {
 // Work experience section
 
 const workExperiences = {
-  display: false, //Set it to true to show workExperiences Section
+  display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
+      role: "Student class 11th",
+      company: "Currently studying at School",
       companylogo: require("./assets/images/telegram.png"),
-      date: "November 2019 – Present",
-      desc: "Developent on Telegram bots",
+      date: "November 2009 – Present",
+      desc: "Completing education",
     }
   ]
 };
@@ -326,7 +326,7 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Want to Discuss about a project or just  to say hi? My Inbox is open for all.",
+    "Want to Discuss about a project or just say hi? My Inbox is open for all.",
   email_address: "contact@itsadarsh.tech"
 };
 
