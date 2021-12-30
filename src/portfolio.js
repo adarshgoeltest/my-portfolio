@@ -283,9 +283,9 @@ const blogSection = {
   blogs: [
     {
       url: "https://t.me/CodeXMania",
-      title: "CodeXMania Support Channel",
+      title: "CodeXMania  Channel",
       description:
-        "Join CodeXMania telegram Support channel..."
+        "Join CodeXMania telegram  channel..."
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -326,7 +326,7 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
+    "Want to Discuss about a project or just  to say hi? My Inbox is open for all.",
   email_address: "contact@itsadarsh.tech"
 };
 
