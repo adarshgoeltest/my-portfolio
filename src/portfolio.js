@@ -14,7 +14,7 @@ const greeting = {
   username: "Adarsh Goel",
   title: "Hi all, I'm Adarsh",
   subTitle: emoji(
-    "I am telegram bot Developer 🚀 having an experience of building/modifying website and telegram bots."
+    "I am telegram bot Developer 🚀 having an experience of building/modifying websites and telegram bots."
   ),
   resumeLink:
     "https://t.me/codexmania",
@@ -40,11 +40,11 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "What I do",
-  subTitle: "Passionate developer who like making cool and interactive bots and website",
+  title: "About Me ",
+  subTitle: "I am Passionate developer who likes making cool and interactive bots and websites",
   skills: [
     emoji(
-      "⚡ Develop Telegram Bots and Api's"
+      "⚡ Currently working on Telegram Bots and Api's"
     ),
     emoji(
       "⚡ Integration of third party services such as Heroku/ AWS / Digital Ocean/Repl.iT"
