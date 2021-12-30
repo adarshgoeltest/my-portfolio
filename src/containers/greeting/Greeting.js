@@ -41,7 +41,7 @@ export default function Greeting() {
               <div className="button-greeting-div">
                 <Button text="Contact me" href="#contact" />
                 <Button
-                  text="Join XcodersHub on Telegram"
+                  text="Join CodeXMania on Telegram"
                   newTab={true}
                   href={greeting.resumeLink}
                 />
